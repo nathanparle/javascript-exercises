@@ -13,13 +13,13 @@
                 }
            
     } 
-    if (string === reversed){console.log(string, reversed);
+    if (string === reversed){(string, reversed);
     return true;}
         
-    else {  console.log(string, reversed); return false; } 
+    else {  (string, reversed); return false; } 
 
 };
 
 
 // Do not edit below this line
- //module.exports = palindromes;
+ module.exports = palindromes;
